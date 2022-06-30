@@ -1,2 +1,2 @@
-# TIL_segmentationAndScoring
-TIL_segmentationAndScoring
+# TILSegmentationAndScoring
+TILSegmentationAndScoring
